@@ -30,4 +30,4 @@ Ghi chú:
 Mọi ý kiến đóng góp và phản hồi từ người dùng đều được hoan nghênh và đánh giá cao.
 
 Ứng dụng được build sẵn: 
-https://drive.google.com/drive/folders/1sllyRR6_T5E98uM0rEC_Dbhs4FgPe4EB?usp=sharing
+[https://drive.google.com/drive/folders/1sllyRR6_T5E98uM0rEC_Dbhs4FgPe4EB?usp=sharing](https://drive.google.com/file/d/1W_UzhDoBbF_AbDws6Nh-jGh04r6wE1Rx/view?usp=drive_link)https://drive.google.com/file/d/1W_UzhDoBbF_AbDws6Nh-jGh04r6wE1Rx/view?usp=drive_link
