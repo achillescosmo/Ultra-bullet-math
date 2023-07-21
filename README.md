@@ -29,5 +29,4 @@ Ghi chú:
 Ứng dụng được phát triển với mục đích giải trí và rèn luyện kỹ năng toán học.
 Mọi ý kiến đóng góp và phản hồi từ người dùng đều được hoan nghênh và đánh giá cao.
 
-Ứng dụng được build sẵn: 
-https://drive.google.com/file/d/1W_UzhDoBbF_AbDws6Nh-jGh04r6wE1Rx/view
+Ứng dụng được build sẵn nằm trong file WindowsFormsApp1.zip
